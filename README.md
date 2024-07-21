@@ -48,7 +48,6 @@ They just consist of singular components, just what they say on their label.
 #### Package sources and credit
 - MicroG includes GMSCore and GSFProxy from MicroG FDroid repo
 - Maps APIv1 from MicroG FDroid repo
-- Google Play Store modded from the Pixel Experience Gitlab
 - Fake Store from MicroG FDroid repo
 - Aurora Store and Aurora Droid from Whyorean's GitLab
 - Google Sync adapters for KK-R from OpenGApps GitLab repo, and for S-T from MindTheGApps GitLab repo
@@ -109,6 +108,8 @@ List of hard dependencies:
  - `jq` (update.sh)
  - `unzip` (update.sh)
  - `zip` (build.sh)
+
+You need a copy of Phonesky (aka PlayStore), place it into this repo's root directory with the name `Phonesky.apk`
 
 `cd` to this directory and run:
 ```

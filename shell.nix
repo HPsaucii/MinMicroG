@@ -1,0 +1,9 @@
+let
+  pkgs = import <nixpkgs> {};
+in pkgs.mkShell {
+  packages = with pkgs; [
+    jq
+    unzip
+    zip
+  ];
+}

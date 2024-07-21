@@ -137,6 +137,17 @@ stuff_debloat="
   /system/priv-app/GmsDroidGuard/GmsDroidguard.apk
   /system/priv-app/GsfProxy/GsfProxy.apk
   /system/priv-app/UnifiedNlp/UnifiedNlp.apk
+
+  /system/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk
+  /system/system_ext/priv-app/SetupWizard/SetupWizard.apk
+  /system/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+
+  /system/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+  /system/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+  /system/product/priv-app/Velvet/Velvet.apk
+
+  /system/product/priv-app/Phonesky/Phonesky.apk
+  /system/product/priv-app/GmsCore/GmsCore.apk
 ";
 
 stuff_perm="
